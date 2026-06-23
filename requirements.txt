@@ -1,0 +1,8 @@
+pygeoda
+geopandas
+pandas
+numpy
+folium
+branca
+matplotlib
+shapely
